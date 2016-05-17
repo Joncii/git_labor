@@ -1,3 +1,4 @@
 Hello Git Trainging!
 I'm waiting for the lunch.
 ANother line.
+MODIFIED
